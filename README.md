@@ -1,2 +1,3 @@
-# home
-apitep website
+# Welcome to APITEP
+
+mobile apps for kids
