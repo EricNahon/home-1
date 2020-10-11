@@ -1,3 +1,3 @@
 # Welcome to APITEP
 
-mobile apps for kids
+Learning Apps for kids
